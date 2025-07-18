@@ -1,0 +1,4 @@
+Andre;20;1
+Rafael;19;2
+Thiago;19;3
+Guilherme;23;4
